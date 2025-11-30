@@ -99,7 +99,7 @@ Episode 140000/150000 - epsilon=0.160 - last_total_reward=1.50
 Episode 145000/150000 - epsilon=0.130 - last_total_reward=35.00
 Episode 150000/150000 - epsilon=0.100 - last_total_reward=43.00
 ```
-![]()
+![](https://github.com/suleizelsevim/6x6SmartCab/blob/master/LastTotalReward.jpg)
 >Episode sayısına göre LastTotalReward değerinin değişimi
 ## Sonuçların değerlendirilmesi
 
@@ -116,3 +116,4 @@ Avg total reward: 43.65
 Ajan %100 başarı oranına ulaşmıştır.
 
 ![](https://github.com/suleizelsevim/6x6SmartCab/blob/master/smartcab_6x6.gif)
+
